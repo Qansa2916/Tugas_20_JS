@@ -1,0 +1,8 @@
+function tugas20() {
+    var x = "There are many variations of passages of Lorem Ipsum available but the majority have suffered  alteration in some form, by injected humour, or randomised words which do not look even slightly believable."
+    console.log(x.match("are"));
+    console.log(x.match("apa"));
+    console.log(x.match("words"));
+
+}
+tugas20();
